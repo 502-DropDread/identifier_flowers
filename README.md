@@ -3,7 +3,7 @@ This repository contains the code executed on 01 / October / 2021 in Jupyter Not
 Task Seminar 2021. 
 The credits of the code are for the / the corresponding person.
 #
-#Luis Alexander Spain Romero
+#Luis Alexander España Romero
 #1690 - 16 - 13453
 #Mariano Galvez University ext. Peten
 
