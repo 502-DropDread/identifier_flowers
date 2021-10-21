@@ -1,5 +1,4 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
 .ipynb_checkpoints/ filter=lfs diff=lfs merge=lfs -text
-*.ipynb_.ipynb_checkpoints/ filter=lfs diff=lfs merge=lfs -text
-.ipynb_.ipynb_checkpoints/ filter=lfs diff=lfs merge=lfs -text
+
